@@ -30,3 +30,27 @@ f(x, y) = x
 • Tensorflow was installed correctly.
 • Evaluate a function using Tensorflow.
 • View the Tensor graph.
+
+
+Implementation of AND gate using
+
+Tensorflow
+
+1 Objective
+The objective is to
+• implements the AND Gate using tensorflow, by specifying the hidden layers, cost function
+and Gradient descent optimization.
+
+2 Steps to be performed
+• Create dataset of AND gate.
+• Create placeholders for datasets.
+• Create weights and biases.
+• Adding hidden layers.
+• Define log loss cost function.
+• Train the model using Forward Propagation.
+
+3 Expected Results
+• Train the model that mimics AND Gate using tensorflow.
+
+4 Modifications
+• Implement backward propagation.
