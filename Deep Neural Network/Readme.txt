@@ -16,7 +16,7 @@ Steps .
 • Load the dataset from Keras.
 • Prepare the dataset for training.
 • Create the Deep neural network architecture.
-• Configure the model for training, by using appropriate optimizers and regularizations.
+• Configure the model for training, by using appropriate optimizers and regularizations.
 • Train the model.
 • Test the model using the test set.
 • Report the results.
